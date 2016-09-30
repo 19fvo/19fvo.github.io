@@ -3,8 +3,32 @@ p {
     background-color: #cc66ff;
 }
 a {
-    background-color: #ffb380;
+    background-color: #ff6666;
 }
 h1 {
     background-color: #9999ff;
+}
+h2 {
+    background-color: #66cc66;
+}
+ul {
+    background-color: #006600;
+}
+h3 {
+    background-color: #997300;
+}
+ol {
+    background-color: #006600;
+}
+h4 {
+    background-color: #ce99ff;
+}
+h5 {
+    background-color: #990099;
+}
+h6 {
+    background-color: #cccccc;
+}
+table {
+    background-color: #666666;
 }
